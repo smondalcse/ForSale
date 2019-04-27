@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:3:11-48
+		INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\sanat\.android\build-cache\cca381c3c46c860776cc499ff31f61e37ffe43c8\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:10:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sanat\.android\build-cache\3e4ba8c03e827ba5ae6cf796e84e20c7eebb99d4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\sanat\.android\build-cache\382e619234acb568bd7f8a30fa205e511b99675b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\sanat\.android\build-cache\14d291e2a405534503ac386bbfd33fc24106ce43\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\sanat\.android\build-cache\d301725dee4dd63760628c7766676e050ee64b7c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\sanat\.android\build-cache\4c70d511bbbd3c5c40298fc295fade35ad2d8755\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\sanat\.android\build-cache\b2214a0351ebd141ee54a229d46b23142ad895f0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\sanat\.android\build-cache\1b0d0204ebc814f4261466c703142f84e981345c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-auth:11.4.2] C:\Users\sanat\.android\build-cache\b535aba81e0dc514dc05faae8ea8347c9056f913\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\sanat\.android\build-cache\11ad90a34a106acb3ed4efb5bc27fb809776b6a4\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\sanat\.android\build-cache\3e5fb49c406830765a09752d4a63980df4c4837d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.4.2] C:\Users\sanat\.android\build-cache\b5121e404bbc927427686ec1022c1f4ea991aa48\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.4.2] C:\Users\sanat\.android\build-cache\25e0a249bb35073e784f2140ffbe82a7018022e3\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.4.2] C:\Users\sanat\.android\build-cache\a6c47690138b939300575c09cd33989fdbdf34e4\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] C:\Users\sanat\.android\build-cache\f35932a38db1a8773b3b406e57f786c35548b817\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] C:\Users\sanat\.android\build-cache\ecdaf26904383823a46fe6e79e38960894f52688\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\sanat\.android\build-cache\1c12d8c24af5b57d5864aeaa86ddec4eec7c1cfa\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\sanat\.android\build-cache\cca381c3c46c860776cc499ff31f61e37ffe43c8\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\sanat\.android\build-cache\022a67d8c9dcc3f2553c73da82c4d31b7f7c622e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.4.2] C:\Users\sanat\.android\build-cache\881f26580aff9af43dab46743c608425f4eec732\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\sanat\.android\build-cache\63d669cd5c14e0b5bed1bb07ec7121b8a4f4f653\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\sanat\.android\build-cache\40d3f166a028209c14b9be13576bdcaff62442c8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\sanat\.android\build-cache\5dc2430cef2df48079444a2816976ac97a3e6c4f\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\sanat\.android\build-cache\49a1d516903b2a5b60cb242f36f0246e912b1c73\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\sanat\.android\build-cache\e61324e27b29558ea0c9296b16cc10be5d5135c5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\sanat\.android\build-cache\73071f0ee6dce64bd2bafdceb2c6eafd33457291\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\sanat\.android\build-cache\a78614d1442e78eae5b7f428aaa1b34a81cdadc5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\sanat\.android\build-cache\ead0b03fb1489e6bdb205a2687b4259e8314b87e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\sanat\.android\build-cache\993a79383cb536bdcb76d9e7c4e3dee73fce1456\output\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\sanat\.android\build-cache\0f41e84f03dc642f5cacca06e95b0fbc3e27fad1\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\sanat\.android\build-cache\1534464f7a48e124b0db72c89fa23857671fa341\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\sanat\.android\build-cache\51cb69db940c525f17777e5756b0d8c6a36b5c93\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\sanat\.android\build-cache\31332f4b6760dda73755cc331153feffdc1e905e\output\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:16:9-40
+activity#codingwithmitch.com.forsale.account.LoginActivity
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:17:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:21:27-74
+activity#codingwithmitch.com.forsale.SearchActivity
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:24:19-49
+activity#codingwithmitch.com.forsale.account.RegisterActivity
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:25:19-59
+activity#codingwithmitch.com.forsale.FiltersActivity
+ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml:26:19-50
+uses-sdk
+INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sanat\.android\build-cache\3e4ba8c03e827ba5ae6cf796e84e20c7eebb99d4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\sanat\.android\build-cache\382e619234acb568bd7f8a30fa205e511b99675b\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\sanat\.android\build-cache\14d291e2a405534503ac386bbfd33fc24106ce43\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\sanat\.android\build-cache\d301725dee4dd63760628c7766676e050ee64b7c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\sanat\.android\build-cache\4c70d511bbbd3c5c40298fc295fade35ad2d8755\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\sanat\.android\build-cache\b2214a0351ebd141ee54a229d46b23142ad895f0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\sanat\.android\build-cache\f0653892293793e6995b9ae03e67534528c04766\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\sanat\.android\build-cache\1b0d0204ebc814f4261466c703142f84e981345c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.4.2] C:\Users\sanat\.android\build-cache\b535aba81e0dc514dc05faae8ea8347c9056f913\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\sanat\.android\build-cache\11ad90a34a106acb3ed4efb5bc27fb809776b6a4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\sanat\.android\build-cache\3e5fb49c406830765a09752d4a63980df4c4837d\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.4.2] C:\Users\sanat\.android\build-cache\b5121e404bbc927427686ec1022c1f4ea991aa48\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:11.4.2] C:\Users\sanat\.android\build-cache\9f038ac7c875d539715cd2ede5609ac44191097e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.4.2] C:\Users\sanat\.android\build-cache\08f231e8b87b82172dac71bd5899a00de578aa79\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.4.2] C:\Users\sanat\.android\build-cache\25e0a249bb35073e784f2140ffbe82a7018022e3\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.4.2] C:\Users\sanat\.android\build-cache\a6c47690138b939300575c09cd33989fdbdf34e4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage:11.4.2] C:\Users\sanat\.android\build-cache\b64f82edf3c5eaaa0b4da9d0c88a707099a98958\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.4.2] C:\Users\sanat\.android\build-cache\8855f4b8c51deb01f85eeeffd92087268fbb1b33\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] C:\Users\sanat\.android\build-cache\f35932a38db1a8773b3b406e57f786c35548b817\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] C:\Users\sanat\.android\build-cache\ecdaf26904383823a46fe6e79e38960894f52688\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\sanat\.android\build-cache\1c12d8c24af5b57d5864aeaa86ddec4eec7c1cfa\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\sanat\.android\build-cache\cca381c3c46c860776cc499ff31f61e37ffe43c8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\sanat\.android\build-cache\022a67d8c9dcc3f2553c73da82c4d31b7f7c622e\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.2] C:\Users\sanat\.android\build-cache\881f26580aff9af43dab46743c608425f4eec732\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\sanat\.android\build-cache\63d669cd5c14e0b5bed1bb07ec7121b8a4f4f653\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\sanat\.android\build-cache\40d3f166a028209c14b9be13576bdcaff62442c8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\sanat\.android\build-cache\5dc2430cef2df48079444a2816976ac97a3e6c4f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\sanat\.android\build-cache\49a1d516903b2a5b60cb242f36f0246e912b1c73\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\sanat\.android\build-cache\e61324e27b29558ea0c9296b16cc10be5d5135c5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\sanat\.android\build-cache\73071f0ee6dce64bd2bafdceb2c6eafd33457291\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\sanat\.android\build-cache\a78614d1442e78eae5b7f428aaa1b34a81cdadc5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\sanat\.android\build-cache\ead0b03fb1489e6bdb205a2687b4259e8314b87e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\sanat\.android\build-cache\993a79383cb536bdcb76d9e7c4e3dee73fce1456\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\sanat\.android\build-cache\0f41e84f03dc642f5cacca06e95b0fbc3e27fad1\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\sanat\.android\build-cache\1534464f7a48e124b0db72c89fa23857671fa341\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\sanat\.android\build-cache\51cb69db940c525f17777e5756b0d8c6a36b5c93\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\sanat\.android\build-cache\31332f4b6760dda73755cc331153feffdc1e905e\output\AndroidManifest.xml:4:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\sanat\.android\build-cache\382e619234acb568bd7f8a30fa205e511b99675b\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Project\ForSale\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\sanat\.android\build-cache\382e619234acb568bd7f8a30fa205e511b99675b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\sanat\.android\build-cache\14d291e2a405534503ac386bbfd33fc24106ce43\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\sanat\.android\build-cache\d301725dee4dd63760628c7766676e050ee64b7c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\sanat\.android\build-cache\4c70d511bbbd3c5c40298fc295fade35ad2d8755\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\sanat\.android\build-cache\b2214a0351ebd141ee54a229d46b23142ad895f0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\sanat\.android\build-cache\f0653892293793e6995b9ae03e67534528c04766\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\sanat\.android\build-cache\1b0d0204ebc814f4261466c703142f84e981345c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\sanat\.android\build-cache\49a1d516903b2a5b60cb242f36f0246e912b1c73\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\sanat\.android\build-cache\e61324e27b29558ea0c9296b16cc10be5d5135c5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\sanat\.android\build-cache\73071f0ee6dce64bd2bafdceb2c6eafd33457291\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\sanat\.android\build-cache\a78614d1442e78eae5b7f428aaa1b34a81cdadc5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\sanat\.android\build-cache\ead0b03fb1489e6bdb205a2687b4259e8314b87e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\sanat\.android\build-cache\993a79383cb536bdcb76d9e7c4e3dee73fce1456\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\sanat\.android\build-cache\382e619234acb568bd7f8a30fa205e511b99675b\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\sanat\.android\build-cache\382e619234acb568bd7f8a30fa205e511b99675b\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\sanat\.android\build-cache\11ad90a34a106acb3ed4efb5bc27fb809776b6a4\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\sanat\.android\build-cache\11ad90a34a106acb3ed4efb5bc27fb809776b6a4\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\sanat\.android\build-cache\11ad90a34a106acb3ed4efb5bc27fb809776b6a4\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\sanat\.android\build-cache\11ad90a34a106acb3ed4efb5bc27fb809776b6a4\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\sanat\.android\build-cache\cca381c3c46c860776cc499ff31f61e37ffe43c8\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\sanat\.android\build-cache\cca381c3c46c860776cc499ff31f61e37ffe43c8\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\sanat\.android\build-cache\cca381c3c46c860776cc499ff31f61e37ffe43c8\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\sanat\.android\build-cache\cca381c3c46c860776cc499ff31f61e37ffe43c8\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\sanat\.android\build-cache\d13b1d91dc2465ddd873cb1242483a9ef03d0628\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\sanat\.android\build-cache\9fd60386f368e37b837544ad1d8c3062e4eb2a72\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\sanat\.android\build-cache\881f26580aff9af43dab46743c608425f4eec732\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\sanat\.android\build-cache\881f26580aff9af43dab46743c608425f4eec732\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\sanat\.android\build-cache\881f26580aff9af43dab46743c608425f4eec732\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\sanat\.android\build-cache\881f26580aff9af43dab46743c608425f4eec732\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\sanat\.android\build-cache\881f26580aff9af43dab46743c608425f4eec732\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\sanat\.android\build-cache\5dc2430cef2df48079444a2816976ac97a3e6c4f\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\sanat\.android\build-cache\5dc2430cef2df48079444a2816976ac97a3e6c4f\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\sanat\.android\build-cache\5dc2430cef2df48079444a2816976ac97a3e6c4f\output\AndroidManifest.xml:20:20-65
